@@ -1,0 +1,19 @@
+.redBack {
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#specialRed {
+    font-size: 24px;
+}
+
+#blueBoi {
+    color: blue;
+    font-size: 36px;
+}
+
+#greenBoi {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
