@@ -12,6 +12,33 @@ img {
   font-weight: 900;
 }
 
+header {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 32px;
+}
+
+main {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-wrap: wrap;
+  max-width: 200px;
+}
+
+.text {
+  text-align: center;
+}
 /* do not edit this footer */
 .footer {
   position: fixed;
